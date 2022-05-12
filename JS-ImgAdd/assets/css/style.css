@@ -6,25 +6,24 @@
 .container{
     width: 75%;
     height: 100vh;
-    background-color: aqua;
     margin: 0 auto;
 }
 .file{
-    width: 75%;
-    height: 50vh;
+    width: 65%;
+    height: 45vh;
     background-color: orange;
     margin: 0 auto; 
-    
+    border-radius: 5px;
 }
 .hide{
     visibility: hidden;
     cursor: pointer;
 }
 .load{
-    width: 75%;
+    width: 65%;
     height: 28vh;
     margin: 0 auto;
-    background-color: green;
+    
 }
 .bi-cloud-arrow-up-fill{
     font-size: 7em;
@@ -49,7 +48,7 @@ a{
 }
 .bi-x-circle-fill{
     float: left; 
-    color: white;
+    color: rgb(238, 64, 20);
     font-size: 16px;
     cursor: pointer;
 }
